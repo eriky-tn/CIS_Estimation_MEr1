@@ -338,9 +338,9 @@ save(mlRhoEst1,
      mlLqEst2,
      mlLsEst1,
      mlLsEst2,
-     file = 'data/MLE.rdata')
+     file = 'results/MLE.rdata')
 
-#load(file='data/MLE.rdata')
+#load(file='results/MLE.rdata')
 #rm(mlRhoEst, mlLqEst1, mlLqEst2, mlLsEst1, mlLsEst2)
 
 ################################################################################
@@ -375,9 +375,9 @@ save(jefRhoEst1,
      jefLqEst2,
      jefLsEst1,
      jefLsEst2,
-     file = 'data/Jef.rdata')
+     file = 'results/Jef.rdata')
 
-#load(file='data/Jef.rdata')
+#load(file='results/Jef.rdata')
 #rm(jefRhoEst,jefLsEst)
 
 ################################################################################
@@ -416,9 +416,9 @@ save(gauRhoEst1,
      gauLqEst2,
      gauLsEst1,
      gauLsEst2,
-     file = 'data/GH.rdata')
+     file = 'results/GH.rdata')
 
-#load(file = 'data/GH.rdata')
+#load(file = 'results/GH.rdata')
 #rm(gauRhoEst,gauLqEst,gauLsEst)
 
 #system('shutdown -s')
