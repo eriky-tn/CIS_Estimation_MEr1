@@ -19,8 +19,8 @@ The study investigates estimation procedures for key queue performance measures 
 - `experiments.R`  
   Contains the code required to reproduce all numerical experiments presented in the article.
   
-  - `tables.R`  
-  Reproduces all tables presented in the article.
+- `tables.R`  
+Reproduces all tables presented in the article.
 
 - `plots.R`  
   Reproduces all figures presented in the article.
