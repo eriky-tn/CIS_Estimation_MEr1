@@ -10,9 +10,7 @@ DOI: https://doi.org/10.1080/03610918.2025.2501750
 
 ## Abstract
 
-This repository provides the computational implementation supporting the numerical experiments presented in the article on performance measure estimation in Erlang single-server queueing systems.
-
-The study investigates estimation procedures for key queue performance measures and evaluates their statistical properties through simulation experiments.
+Queing systems with Markovian arrivals, Erlangian service times, and single servers are the focus of this article, that is, 𝑀/𝐸𝑟/1 queues, in Kendall notation. Statistical methods are proposed to estimate important parameters in such queues which are based on finite samples of the number of customers who arrived during the service periods. Complementary methods are proposed on the line of the classical maximum likelihood and of the Bayesian methods, which are based on flexible prior distributions. Extensive Monte Carlo tests are presented, showing the effectiveness and efficiency of the proposed methods.
 
 ## Repository Structure
 
